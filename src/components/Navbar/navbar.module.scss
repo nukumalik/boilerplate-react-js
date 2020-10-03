@@ -1,0 +1,16 @@
+.wrapper {
+  border-bottom: 2px solid #eee;
+  margin-bottom: 4rem;
+
+  ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+
+    li {
+      text-decoration: none;
+      padding: 1rem 2.5rem;
+    }
+  }
+}
